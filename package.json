@@ -1,12 +1,12 @@
 {
   "name": "geojson.lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "./lib/geojson.lib",
   "homepage": "https://github.com/luscus/geojson.lib",
   "author": "https://github.com/luscus/geojson.lib/graphs/contributors",
   "bugs": "https://github.com/luscus/geojson.lib/issues",
-  "description": "Wraps a set of GeoJSON tools into one single library",
+  "description": "Wraps a set of GeoJSON tools into one single library and adds also a few tool methods",
   "keywords": [
     "geojson",
     "library",
