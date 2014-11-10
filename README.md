@@ -11,7 +11,7 @@ Wraps a set of GeoJSON tools into one single library and adds also a few tool me
 - [geojson-equality](geojson-equality) (*tools*): Check two valid geojson geometries for equality.
 - [geojson-flatten](geojson-flatten) (*tools*): Flatten MultiPoint, MultiPolygon, MultiLineString, and GeometryCollection geometries in GeoJSON files into simple non-complex geometries.
 - [togeojson](https://github.com/mapbox/togeojson) (*parser*): convert KML and GPX to GeoJSON, without the fuss
-- [togeojson](https://github.com/Esri/terraformer-wkt-parser) (*parser*): convert KML and GPX to GeoJSON, without the fuss
+- [terraformer-wkt-parser](https://github.com/Esri/terraformer-wkt-parser) (*parser*): A bare-bones WKT parser.
 - [ngeohash](ngeohash) (*hash*): geohash library for nodejs.
 
 ## Usage
