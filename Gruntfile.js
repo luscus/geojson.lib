@@ -4,14 +4,23 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
   // Default task(s).
-  grunt.registerTask('default', ['jshint']);
+  grunt.registerTask('default', ['jshint', 'mochaTest']);
+  grunt.registerTask('test', ['mochaTest']);
 
-
-  // Plugin configuration(s).
+  // Project configuration.
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     jshint: {
-      all: ['Gruntfile.js', 'lib/**/*.js']
+      all: ['package.json', 'Gruntfile.js', 'lib/**/*.js', 'test/**/*.js']
+    },
+    mochaTest: {
+      test: {
+        options: {
+          bail: true,
+          reporter: 'dot'
+        },
+        src: ['test/**/*.js']
+      }
     }
   });
 };
