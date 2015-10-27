@@ -1,6 +1,6 @@
 {
   "name": "geojson.lib",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "license": "MIT",
   "main": "./lib/geojson.lib",
   "homepage": "https://github.com/luscus/geojson.lib",
