@@ -1,7 +1,13 @@
 # geojson.lib
-[![NPM version](https://badge.fury.io/js/geojson.lib.svg)](http://badge.fury.io/js/geojson.lib)
-[![dependencies](https://david-dm.org/luscus/geojson.lib.svg)](https://david-dm.org/luscus/geojson.lib)
-[![devDependency Status](https://david-dm.org/luscus/geojson.lib/dev-status.svg?theme=shields.io)](https://david-dm.org/luscus/geojson.lib#info=devDependencies)
+
+[![NPM version](https://img.shields.io/npm/v/geojson.lib.svg?style=flat)](https://www.npmjs.com/package/geojson.lib "View this project on NPM")
+[![NPM downloads](https://img.shields.io/npm/dm/geojson.lib.svg?style=flat)](https://www.npmjs.com/package/geojson.lib "View this project on NPM")
+[![NPM license](https://img.shields.io/npm/l/geojson.lib.svg?style=flat)](https://www.npmjs.com/package/geojson.lib "View this project on NPM")
+[![flattr](https://img.shields.io/badge/flattr-donate-yellow.svg?style=flat)](http://flattr.com/thing/3817419/luscus-on-GitHub)
+
+![coverage](https://rawgit.com/luscus/geojson.lib/master/reports/coverage.svg)
+[![David](https://img.shields.io/david/luscus/geojson.lib.svg?style=flat)](https://david-dm.org/luscus/geojson.lib)
+[![David](https://img.shields.io/david/dev/luscus/geojson.lib.svg?style=flat)](https://david-dm.org/luscus/geojson.lib#info=devDependencies)
 
 
 Wraps a set of GeoJSON tools into one single library and adds also a few tool methods:
