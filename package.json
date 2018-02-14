@@ -16,7 +16,7 @@
   "dependencies": {
     "geojson": "0.4.1",
     "geojson-equality": "0.1.6",
-    "geojson-flatten": "0.2.1",
+    "geojson-flatten": "0.2.2",
     "geojson-multiply": "^1.0.3",
     "geojson-precision": "0.4.0",
     "geojson-utils": "1.1.0",
