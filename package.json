@@ -18,7 +18,7 @@
     "geojson-equality": "0.1.6",
     "geojson-flatten": "0.2.1",
     "geojson-multiply": "^1.0.3",
-    "geojson-precision": "0.4.0",
+    "geojson-precision": "1.0.0",
     "geojson-utils": "1.1.0",
     "ngeohash": "0.6.0",
     "terraformer-wkt-parser": "1.1.2",
